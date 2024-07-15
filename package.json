@@ -50,7 +50,7 @@
     "globals": "^15.6.0",
     "js-yaml": "^4.1.0",
     "mdast-util-to-string": "^4.0.0",
-    "prettier": "^3.3.2",
+    "prettier": "^3.3.3",
     "prettier-plugin-astro": "^0.14.0",
     "reading-time": "^1.5.0",
     "rehype-plugin-image-native-lazy-loading": "^1.2.0",
