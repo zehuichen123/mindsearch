@@ -16,7 +16,7 @@ export const headerData = {
     },
     {
       text: 'Code',
-      href: 'https://github.com/',
+      href: 'https://github.com/internlm/lagent',
     }
     // {
     //   text: 'Blog',
