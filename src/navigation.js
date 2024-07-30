@@ -14,10 +14,6 @@ export const headerData = {
       text: 'Blog',
       href: '/blog',
     },
-    {
-      text: 'Code',
-      href: 'https://github.com/internlm/lagent',
-    }
     // {
     //   text: 'Blog',
     //   links: [
@@ -48,7 +44,7 @@ export const headerData = {
     //   href: '#',
     // },
   ],
-  actions: [{ text: 'Download', href: 'https://github.com/internlm/lagent', target: '_blank' }],
+  actions: [{ text: 'Download', href: 'https://github.com/internlm/mindsearch', target: '_blank' }],
 };
 
 export const footerData = {
