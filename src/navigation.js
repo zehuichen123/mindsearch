@@ -7,13 +7,17 @@ export const headerData = {
       href: '/'
     },
     {
-      text: 'Demo',
+      text: 'Video',
       href: '/demo',
     },
     {
       text: 'Blog',
       href: '/blog',
     },
+    {
+      text: 'Paper',
+      href: 'https://arxiv.org/abs/2407.20183',
+    }
     // {
     //   text: 'Blog',
     //   links: [
@@ -44,7 +48,7 @@ export const headerData = {
     //   href: '#',
     // },
   ],
-  actions: [{ text: 'Download', href: 'https://github.com/internlm/mindsearch', target: '_blank' }],
+  actions: [{ text: 'Online Demo', href: 'https://mindsearch.openxlab.org.cn/', target: '_blank' }],
 };
 
 export const footerData = {
