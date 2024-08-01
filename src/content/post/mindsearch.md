@@ -11,6 +11,7 @@ tags:
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
+#### Technical Report: [https://arxiv.org/abs/2407.20183](https://arxiv.org/abs/2407.20183)
 
 <div style="font-size: 20px">
 Search engines provide extensive and the latest web information but often fail to tailor search results to align with complex human intentions.
