@@ -48,7 +48,7 @@ export const headerData = {
     //   href: '#',
     // },
   ],
-  actions: [{ text: 'Online Demo', href: 'https://mindsearch.openxlab.org.cn/', target: '_blank' }],
+  actions: [{ text: 'Online Demo', href: 'https://huggingface.co/spaces/internlm/MindSearchReact', target: '_blank' }],
 };
 
 export const footerData = {
